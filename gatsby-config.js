@@ -10,8 +10,8 @@ try {
 } catch (e) {
     ghostConfig = {
         production: {
-            apiUrl: process.env.`http://45.76.246.63:3001`,
-            contentApiKey: process.env.`55ea366afca43f6177b1c7459b`,
+            apiUrl: process.env.`http://testsite.casa`,
+            contentApiKey: process.env.`b218e41cb2852309cdb845ad24`,
         },
     }
 } finally {
