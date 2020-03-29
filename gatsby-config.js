@@ -11,7 +11,7 @@ try {
     ghostConfig = {
         production: {
             apiUrl: `http://testsite.casa`,
-            contentApiKey: `b218e41cb2852309cdb845ad24`,
+            contentApiKey: `cabe2cfbe6d116e8343fd138f7`,
         },
     }
 } finally {
