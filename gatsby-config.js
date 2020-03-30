@@ -63,7 +63,7 @@ module.exports = {
                     ? ghostConfig.development
                     : ghostConfig.production,
         },
-        {
+        /*{
             resolve: `gatsby-plugin-ghost-images`,
             options: {
                 // An array of node types and image fields per node
