@@ -10,8 +10,8 @@ try {
 } catch (e) {
     ghostConfig = {
         production: {
-            apiUrl: `http://testsite.casa`,
-            contentApiKey: `cabe2cfbe6d116e8343fd138f7`,
+            apiUrl: `https://spaceroid.testsite.casa`,
+            contentApiKey: `c1a13b9962b1fdc13ffb2a3ac3`,
         },
     }
 } finally {
